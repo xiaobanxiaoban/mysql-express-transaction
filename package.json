@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/xiaobanxiaoban/mysql-express-transaction/issues"
   },
-  "homepage": "https://github.com/xiaobanxiaoban/mysql-express-transaction"
+  "homepage": "https://github.com/xiaobanxiaoban/mysql-express-transaction",
+  "dependencies":{
+    "mysql":"2.9.0"
+  }
 }
